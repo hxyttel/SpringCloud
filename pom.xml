@@ -18,6 +18,7 @@
         <module>Hystrix</module>
         <module>NativeConfigServer</module>
         <module>NativeConfigClient</module>
+        <module>ConfigServer</module>
     </modules>
     <packaging>pom</packaging>
 
